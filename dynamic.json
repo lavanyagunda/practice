@@ -1,0 +1,43 @@
+{
+  "profile":{
+    "img":"download.jpg",
+    "name":"G.lavanya",
+    "rollno":"17NN1A1221",
+    "place":"guntur",
+    "email":"lavanyaagunda@gmail.com"
+  },
+  "career":{
+    "info":"i want to seek a job in reputed company to explore my taughts for the company"
+  },
+  "education":[
+    {
+      "degree":"btech",
+      "institute":"vignan",
+      "per":"85%",
+      "yop":"2018"
+    },
+    {
+      "degree":"inter",
+      "institute":"gvrs",
+      "per":"88",
+      "yop":"2016"
+    },
+    {
+    "degree":"ssc",
+    "institute":"srichaitanaya",
+    "per":"90%",
+    "yop":"2014"
+  }
+  ],
+   "languages":[
+     {
+       "info":"english"
+     },
+     {
+       "info":"telugu"
+     },
+     {
+       "info":"hindi"
+     }
+   ]
+}
